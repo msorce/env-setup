@@ -1,2 +1,1 @@
-# env-setup
-💊💻
+# 💊💻 env-setup
