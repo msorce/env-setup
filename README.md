@@ -13,3 +13,9 @@ if you need to erase nvim settings and start from scratch, rm ~/.config/nvim && 
 
 ### setup packer
 https://github.com/wbthomason/packer.nvim
+
+installing for unix/linux
+```
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+```
