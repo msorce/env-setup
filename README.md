@@ -10,3 +10,6 @@ TODO: https://www.twitch.tv/teej_dv told me to use this for LSP setup https://gi
 if you need to erase nvim settings and start from scratch, rm ~/.config/nvim && rm ~/.local/share/nvim
 ### How to add neovim options 
 1. create init.lua in ~/.config/nvim
+
+### setup packer
+https://github.com/wbthomason/packer.nvim
