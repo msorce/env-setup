@@ -1,5 +1,15 @@
 # 💊💻 env-setup
+## Terminal Emulator
 
+I really wanted to be able to use the default terminal.app, however, it does not support true colors, and it had some mouse issues with neovim
+
+### Installation
+```brew install --cask alacritty```
+
+TODO: configure with YAML file, check github repo
+
+
+---
 ## Neovim
 
 ### Installation
