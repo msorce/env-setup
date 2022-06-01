@@ -21,7 +21,8 @@ Where ‘NameOfFont’ is the font you’re checking for.
 `brew install neovim`
 
 TODO: https://www.twitch.tv/teej_dv told me to use this for LSP setup https://github.com/nvim-lua/kickstart.nvim
-
+Telescope requires ripgrep
+`brew install ripgrep`
 
 if you need to erase nvim settings and start from scratch, rm ~/.config/nvim && rm ~/.local/share/nvim
 ### Options 
