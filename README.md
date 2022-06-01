@@ -8,7 +8,12 @@ I really wanted to be able to use the default terminal.app, however, it does not
 
 TODO: configure with YAML file, check github repo
 
+check installed fonts
+```fc-list```
+Or if you want to check for one font in particular you can use:
 
+```fc-match NameOfFont -s```
+Where ‘NameOfFont’ is the font you’re checking for.
 ---
 ## Neovim
 
