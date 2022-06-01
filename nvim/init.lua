@@ -1,0 +1,10 @@
+require "configurations.options"
+require "configurations.keymaps"
+require "configurations.plugins"
+require "configurations.treesitter"
+require "configurations.autopairs"
+require "configurations.nvim-tree"
+require "configurations.colorscheme"
+require "configurations.cmp"
+require "configurations.lsp"
+
